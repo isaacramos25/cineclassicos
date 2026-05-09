@@ -1,0 +1,29 @@
+
+header{
+     font-size: large;
+     margin: 0px;
+     padding: 0px;
+     border-style:groove;
+     background-color: black}
+
+hr {margin:5px;
+    padding:0px;
+    border-bottom: 4cap;}
+
+main{margin:50px;
+     padding: 50px;
+     border-style: groove;
+     background-color: black;}
+
+img{ border-style: groove;}
+
+footer {margin:0;
+        padding:10px;}
+
+nav{color: blue;}
+
+*{ font-family: geneva;
+  color: gray;}
+
+body{
+  background-image: url('https://us.123rf.com/450wm/leoedition/leoedition1907/leoedition190702466/127925320-moldura-de-tira-de-filme-de-cole%C3%A7%C3%A3o-na-m%C3%A3o-desenhar-fundo-de-doodle-banner-de-cinema-antigo-com.jpg?ver=6');}   
